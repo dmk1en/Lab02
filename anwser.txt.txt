@@ -1,0 +1,1 @@
+JAVA doesn't allow it because we cannot create constructor with the same type of data (for this example both of them are String)
